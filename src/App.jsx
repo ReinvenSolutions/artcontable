@@ -199,8 +199,8 @@ const App = () => {
                    {/* Main Image Container with soft styling */}
                    <div className="absolute inset-0 bg-gradient-to-tr from-amber-100 to-stone-50 rounded-[3rem] rotate-3 transform transition-transform hover:rotate-0 duration-500 shadow-2xl overflow-hidden border-8 border-white">
                       <img 
-                        src="/angie-gonzalez.png" 
-                        alt="Angie Gonzalez - Asesoría Financiera" 
+                        src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                        alt="Asesoría Financiera" 
                         className="w-full h-full object-cover opacity-90"
                       />
                    </div>
